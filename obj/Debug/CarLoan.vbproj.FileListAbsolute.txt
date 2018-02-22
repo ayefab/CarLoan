@@ -1,0 +1,12 @@
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\bin\Debug\CarLoan.exe.config
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\bin\Debug\CarLoan.exe
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\bin\Debug\CarLoan.pdb
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\bin\Debug\CarLoan.xml
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.vbprojResolveAssemblyReference.cache
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.frmCarLoan.resources
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.Resources.resources
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.vbproj.GenerateResource.Cache
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.vbproj.CoreCompileInputs.cache
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.exe
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.xml
+C:\Users\JUDITH MAKOMVA\source\repos\CarLoan\CarLoan\obj\Debug\CarLoan.pdb
